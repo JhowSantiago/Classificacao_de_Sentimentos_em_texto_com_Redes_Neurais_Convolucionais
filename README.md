@@ -1,0 +1,1 @@
+# Classificacao_de_Sentimentos_em_texto_com_Redes_Neurais_Convolucionais
